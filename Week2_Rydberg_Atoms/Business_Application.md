@@ -127,9 +127,9 @@ Examples:
 
 **William Ngana** I have a background in physics, I work as a software engineer in Toronto.
 
-**Silvia Tzenkova** I have a background in environmental and energy engineering, and currently working on developing hybrid computing emotion prediction platform.
+**Silvia Tzenkova** I have a background in environmental and energy engineering.
 
-**Stephen Zhu** I have background in economics, and currently working on developing hybrid computing emotion prediction platform.
+**Stephen Zhu** I have background in economics.
 
 
 ## Business Proposal
